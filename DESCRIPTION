@@ -1,0 +1,5 @@
+Type: Compendium
+Package: blogsinais
+Version: 0.1.0
+Depends: rmarkdown, tidyverse, pacman, gt, here, foreign, R.utils, data.table, janitor, stringi, extrafont, ggrepel, tremapify, viridis, scales, svglite
+Remotes: tacosdedatos/blog-sinais19-4sexenios
